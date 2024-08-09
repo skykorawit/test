@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    height: 100vh;
+    background-color: #000;
+    background-image: url(https://wallpapers.com/images/hd/blue-mountain-03x28faoww0g6fpm.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+li {
+    list-style: none;
+}
+li{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+}
